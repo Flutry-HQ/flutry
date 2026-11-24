@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@flutry/common": "^0.0.14",
-    "@flutry/database-sequlize": "^0.0.31",
-    "@flutry/server": "^0.0.54"
+    "@flutry/database-sequlize": "^0.0.32",
+    "@flutry/server": "^0.0.55"
   }
 }
