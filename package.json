@@ -18,8 +18,8 @@
     "typescript": "^7.0.2"
   },
   "dependencies": {
-    "@flutry/common": "latest",
-    "@flutry/database-sequlize": "latest",
-    "@flutry/server": "latest"
+    "@flutry/common": "^0.0.14",
+    "@flutry/database-sequlize": "^0.0.31",
+    "@flutry/server": "^0.0.54"
   }
 }
